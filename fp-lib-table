@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Package_CSP_Analog")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_CSP_Analog.pretty")(options "")(descr ""))
+  (lib (name "Package_SOP_DRAM")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_SOP_DRAM.pretty")(options "")(descr ""))
 )
