@@ -3,4 +3,5 @@
   (lib (name "Potentiometer_Digital_Analog")(type "KiCad")(uri "${KIPRJMOD}/lib/Potentiometer_Digital_Analog.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_TagConnect")(type "Legacy")(uri "${KIPRJMOD}/lib/Connector_TagConnect.lib")(options "")(descr ""))
   (lib (name "Memory_RAM_ISSI")(type "KiCad")(uri "${KIPRJMOD}/lib/Memory_RAM_ISSI.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator_Switching_Feeling")(type "Legacy")(uri "${KIPRJMOD}/lib/Regulator_Switching_Feeling.lib")(options "")(descr ""))
 )
