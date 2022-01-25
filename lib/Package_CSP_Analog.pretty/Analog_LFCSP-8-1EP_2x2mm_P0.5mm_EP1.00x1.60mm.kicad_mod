@@ -1,6 +1,6 @@
 (footprint "Analog_LFCSP-8-1EP_2x2mm_P0.5mm_EP1.00x1.60mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61EC3302)
+  (tedit 61EEF442)
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.8 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -34,7 +34,7 @@
   (pad "6" smd rect (at 1.015 0.25) (size 0.71 0.28) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0bf2534d-7a34-4cb6-ae84-ed30167ea13c))
   (pad "7" smd rect (at 1.015 -0.25) (size 0.71 0.28) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 822d7db6-2ef8-44c5-956e-62e25fc4c265))
   (pad "8" smd rect (at 1.015 -0.75) (size 0.71 0.28) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6fb6bbe9-279e-4ab8-8e30-28c34bf85301))
-  (pad "EP" smd rect (at 0 0) (size 1.1 1.6) (layers "F.Cu" "F.Mask") (tstamp 4bda7f41-9c69-41e1-9f1e-ed7cd2facbd9))
+  (pad "EP" smd rect (at 0 0) (size 1 1.5) (layers "F.Cu" "F.Mask") (tstamp 4bda7f41-9c69-41e1-9f1e-ed7cd2facbd9))
   (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 0.7))
