@@ -480,6 +480,14 @@
     [
       "de666fee-ce97-45d3-b784-997d7172e8eb",
       "Sensor 2"
+    ],
+    [
+      "178e4f34-307d-40d3-ad33-897e0bcf86db",
+      "3V8 ref 1"
+    ],
+    [
+      "6670cfe1-dbce-4bc3-9066-0abb765f2076",
+      "3V8 ref 2"
     ]
   ],
   "text_variables": {}
